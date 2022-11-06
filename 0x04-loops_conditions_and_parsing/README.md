@@ -1,1 +1,1 @@
-Shellcheck Project
+Shellcheck Project in the ALX SE program
